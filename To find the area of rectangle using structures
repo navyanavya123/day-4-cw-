@@ -1,0 +1,16 @@
+#include <studio.h>
+Struct rectangle {
+int width;
+int height;
+}ab;
+int main () {
+int area;
+Printf("the width is:");
+Scanf("%d",ab.width);
+Printf("the height is :");
+Scanf("%d",ab.height);
+Printf("the area is :",width*height);
+Return 0; 
+}
+
+
